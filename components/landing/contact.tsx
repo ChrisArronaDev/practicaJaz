@@ -86,7 +86,7 @@ export function Contact() {
       ref={sectionRef}
       id="contacto" 
       className="py-24 bg-gradient-to-b from-secondary/20 via-background to-background relative overflow-hidden"
-    >
+    >thyfdhghghmfg
       {/* Background decoration */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
         <div className="absolute top-1/4 -right-32 w-96 h-96 bg-ocean-blue/10 rounded-full blur-3xl animate-pulse" style={{ animationDuration: "4s" }} />
